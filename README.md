@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gera Samayoa</h1>
 <h3 align="center">A passionate frontend developer from Guatemala</h3>
 
-https://github.com/GeraSamayoa/GeraSamayoa/blob/main/1.png
+![(https://github.com/GeraSamayoa/GeraSamayoa/blob/main/1.png)]
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gerasamayoa&label=Profile%20views&color=0e75b6&style=flat" alt="gerasamayoa" /> </p>
 
