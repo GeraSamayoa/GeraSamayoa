@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gera Samayoa</h1>
-<h3 align="center">A passionate frontend developer from Guatemala</h3>
+<h3 align="center">A passionate developer from Guatemala</h3>
 
 <img src="1.png" alt="B"  />
 
